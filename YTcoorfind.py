@@ -2,7 +2,7 @@ import cv2
 import yt_dlp
 import os
 
-YOUTUBE_URL = "https://www.youtube.com/watch?v=YoSqEM6StuY"
+YOUTUBE_URL = "https://www.youtube.com/watch?v=T0YY09IGYdQ"
 
 def get_stream_url(url):
     ydl_opts = {
